@@ -1,0 +1,6 @@
+c:\users\asif\documents\visual studio 2013\Projects\GenericStack\GenericStack\bin\Debug\GenericStack.exe.config
+c:\users\asif\documents\visual studio 2013\Projects\GenericStack\GenericStack\bin\Debug\GenericStack.exe
+c:\users\asif\documents\visual studio 2013\Projects\GenericStack\GenericStack\bin\Debug\GenericStack.pdb
+c:\users\asif\documents\visual studio 2013\Projects\GenericStack\GenericStack\obj\Debug\GenericStack.csprojResolveAssemblyReference.cache
+c:\users\asif\documents\visual studio 2013\Projects\GenericStack\GenericStack\obj\Debug\GenericStack.exe
+c:\users\asif\documents\visual studio 2013\Projects\GenericStack\GenericStack\obj\Debug\GenericStack.pdb

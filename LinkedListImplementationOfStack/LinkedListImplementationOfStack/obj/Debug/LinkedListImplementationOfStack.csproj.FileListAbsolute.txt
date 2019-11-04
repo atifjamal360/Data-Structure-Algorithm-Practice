@@ -1,0 +1,6 @@
+c:\users\asif\documents\visual studio 2013\Projects\LinkedListImplementationOfStack\LinkedListImplementationOfStack\bin\Debug\LinkedListImplementationOfStack.exe.config
+C:\Users\Asif\Documents\Visual Studio 2013\Projects\LinkedListImplementationOfStack\LinkedListImplementationOfStack\obj\Debug\LinkedListImplementationOfStack.csprojResolveAssemblyReference.cache
+C:\Users\Asif\Documents\Visual Studio 2013\Projects\LinkedListImplementationOfStack\LinkedListImplementationOfStack\bin\Debug\LinkedListImplementationOfStack.exe
+C:\Users\Asif\Documents\Visual Studio 2013\Projects\LinkedListImplementationOfStack\LinkedListImplementationOfStack\bin\Debug\LinkedListImplementationOfStack.pdb
+C:\Users\Asif\Documents\Visual Studio 2013\Projects\LinkedListImplementationOfStack\LinkedListImplementationOfStack\obj\Debug\LinkedListImplementationOfStack.exe
+C:\Users\Asif\Documents\Visual Studio 2013\Projects\LinkedListImplementationOfStack\LinkedListImplementationOfStack\obj\Debug\LinkedListImplementationOfStack.pdb

@@ -1,0 +1,6 @@
+c:\users\asif\documents\visual studio 2013\Projects\CircularQueueArray\CircularQueueArray\bin\Debug\CircularQueueArray.exe.config
+c:\users\asif\documents\visual studio 2013\Projects\CircularQueueArray\CircularQueueArray\obj\Debug\CircularQueueArray.csprojResolveAssemblyReference.cache
+c:\users\asif\documents\visual studio 2013\Projects\CircularQueueArray\CircularQueueArray\bin\Debug\CircularQueueArray.exe
+c:\users\asif\documents\visual studio 2013\Projects\CircularQueueArray\CircularQueueArray\bin\Debug\CircularQueueArray.pdb
+c:\users\asif\documents\visual studio 2013\Projects\CircularQueueArray\CircularQueueArray\obj\Debug\CircularQueueArray.exe
+c:\users\asif\documents\visual studio 2013\Projects\CircularQueueArray\CircularQueueArray\obj\Debug\CircularQueueArray.pdb
